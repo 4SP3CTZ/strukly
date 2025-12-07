@@ -177,7 +177,7 @@ export default function RegisterPage() {
 
                 <motion.div className="space-y-2" variants={itemVariants}>
                   <label htmlFor="name" className="block text-sm font-medium">
-                    {t.email}
+                    {t.name}
                   </label>
                   <Input
                     id="name"
